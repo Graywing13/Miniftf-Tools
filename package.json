@@ -1,0 +1,11 @@
+{
+  "name": "Miniftf-Tools",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/Graywing13/Miniftf-Tools.git",
+  "author": "gw13 <chan.noreen609@gmail.com>",
+  "dependencies": {
+    "@types/d3": "^7.4.3",
+    "d3": "^7.9.0"
+  }
+}
